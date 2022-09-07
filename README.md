@@ -34,7 +34,8 @@ const result = parser.parse(args, {"k": String, "num": Array, b:Boolean});
 The first argument is an array of strings to be parsed, the second argument
 is an object describing the signature for the command Entries take the form of:
 
-```name = Type
+```
+name = Type
 ```
 Type can be an String, Number, Boolean or Array.
 
@@ -47,7 +48,9 @@ for example the result of the above example would be:
 	"k": "hello",
 	"num":[1,2,3],
 	"b": true,
-	 __rest: ["other"]}
+	 __rest: ["other"]
+}
+
 ```
 \__rest member is just an array holding unclaimed arguments 
 
