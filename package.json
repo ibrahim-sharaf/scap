@@ -1,6 +1,6 @@
 {
   "name": "opparse",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Command line argument parser usinng Microsoft Command Line Standard.",
   "main": "index.js",
   "scripts": {
