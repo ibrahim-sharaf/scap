@@ -1,0 +1,23 @@
+{
+  "name": "scap",
+  "version": "1.0.0",
+  "description": "Command line argument parser usinng Microsoft Command Line Standard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Argument",
+    "Parser",
+    "args"
+  ],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrahimsharaf0/scap.git"
+  },
+  "author": "Ibrahim Sharaf",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
