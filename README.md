@@ -1,6 +1,6 @@
-## SCAP
+## opparse
 
-Argument parser that uses Microsoft Command Line Standard. 
+opparse is an argument parser that uses Microsoft Command Line Standard. 
 
 
 ### DESCRIPTION
@@ -11,9 +11,8 @@ Simple JS implementation of Microsoft command line argument parsing standards
 
 ### Installation
 
-
 ```
-npm install scap
+npm install opparse
 ```
 
 ### USAGE
@@ -25,7 +24,7 @@ $node ./script.js -k:hello -num:1,2,3 -b other
 
 ```javascript
 
-const parser = require('scap');
+const parser = require('opparse');
 
 //Getting rid of node path and called script
 const args = parser.helper(process.argv)

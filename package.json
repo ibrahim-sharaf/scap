@@ -1,6 +1,6 @@
 {
-  "name": "scap",
-  "version": "1.0.0",
+  "name": "opparse",
+  "version": "1.0.2",
   "description": "Command line argument parser usinng Microsoft Command Line Standard.",
   "main": "index.js",
   "scripts": {
