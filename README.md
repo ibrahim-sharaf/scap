@@ -1,22 +1,22 @@
-###SCAP
+### SCAP
 
 Argument parser that uses Microsoft Command Line Standard. 
 
 
-##DESCRIPTION
+## DESCRIPTION
 
 Simple JS implementation of Microsoft command line argument parsing standards
 [Command Line Standard](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-powershell-1.0/ee156811(v=technet.10)?redirectedfrom=MSDN)
 
 
-##Installation
+## Installation
 
 
 ```
 npm install scap
 ```
 
-###USAGE
+## USAGE
 
 
 ```
