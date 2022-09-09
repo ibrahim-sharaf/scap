@@ -1,6 +1,6 @@
 {
   "name": "opparse",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Command line argument parser usinng Microsoft Command Line Standard.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   ],
    "repository": {
     "type": "git",
-    "url": "https://github.com/ibrahimsharaf0/scap.git"
+    "url": "https://github.com/ibrahim-sharaf/scap.git"
   },
   "author": "Ibrahim Sharaf",
   "license": "MIT",

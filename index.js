@@ -1,5 +1,5 @@
 /**
- * Scap is a JS implementation of arguments parser using Microsoft Command Line Standard
+ * opparse is a JS implementation of arguments parser using Microsoft Command Line Standard
  * Author: Ibrahim Sharaf
  * Email: ibrahimsharaf3@gmail.com
  */
